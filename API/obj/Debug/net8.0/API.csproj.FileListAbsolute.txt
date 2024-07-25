@@ -134,3 +134,4 @@ C:\Users\jtpg9\Documents\Academy\Level3\FullStack24l\API\obj\Debug\net8.0\refint
 C:\Users\jtpg9\Documents\Academy\Level3\FullStack24l\API\obj\Debug\net8.0\API.pdb
 C:\Users\jtpg9\Documents\Academy\Level3\FullStack24l\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\jtpg9\Documents\Academy\Level3\FullStack24l\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\jtpg9\Documents\Academy\Level3\FullStack24l\api\obj\Debug\net8.0\API.sourcelink.json
