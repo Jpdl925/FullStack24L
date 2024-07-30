@@ -113,7 +113,7 @@ const ProductForm = ({isOpen,onClose,fetchProduct,currentData}:ProductFormProps)
             </VStack>
           </ModalBody>
 
-          {/* {JSON.stringify({product})} */}
+          {JSON.stringify({product})}
 
           <ModalFooter>
             <Button colorScheme="red" mr={3} onClick={onClose}>

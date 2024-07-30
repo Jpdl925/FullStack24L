@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jtpg9\\Documents\\Academy\\Level3\\FullStack24l\\api\\API.csproj": {}
+    "C:\\Users\\jtpg9\\Documents\\Academy\\Level3\\FullStack24L\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jtpg9\\Documents\\Academy\\Level3\\FullStack24l\\api\\API.csproj": {
+    "C:\\Users\\jtpg9\\Documents\\Academy\\Level3\\FullStack24L\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jtpg9\\Documents\\Academy\\Level3\\FullStack24l\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\jtpg9\\Documents\\Academy\\Level3\\FullStack24L\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\jtpg9\\Documents\\Academy\\Level3\\FullStack24l\\api\\API.csproj",
+        "projectPath": "C:\\Users\\jtpg9\\Documents\\Academy\\Level3\\FullStack24L\\api\\API.csproj",
         "packagesPath": "C:\\Users\\jtpg9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jtpg9\\Documents\\Academy\\Level3\\FullStack24l\\api\\obj\\",
+        "outputPath": "C:\\Users\\jtpg9\\Documents\\Academy\\Level3\\FullStack24L\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jtpg9\\AppData\\Roaming\\NuGet\\NuGet.Config"
